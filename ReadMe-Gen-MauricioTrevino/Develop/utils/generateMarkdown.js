@@ -80,8 +80,7 @@ ${data.tests}
 
 ## Questions
 
-If you have any questions, please reach out to me at [${data.email}](mailto:${data.email}).
-You can also find more information about me at my [GitHub profile](https://github.com/${data.githubUsername}).
+You can also find more information about me at my Github > https://github.com/mauri-tech/ReadMe-Gen-MauricioTrevino
 
 `;
 }
