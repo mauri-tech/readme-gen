@@ -7,7 +7,7 @@ This project is a command line application built using Node.js that prompts the 
 Before you begin, make sure that you have the latest version of Node.js and npm installed on your machine. You can download them from the official Node.js website: https://nodejs.org/en/download/
 
 ## Installation
-1. Clone the repository: $ git clone https://github.com/mauri-tech/readme-gen
+1. Clone the repository: $ git clone https://github.com/mauri-tech/ReadMe-Gen-MauricioTrevino
 2. Navigate to the directory: $ cd node-readme-generator
 3. Install the dependencies: $ npm install
 
